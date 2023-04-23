@@ -1,0 +1,19 @@
+H1{
+    text-align: center;
+    color: darkblue;
+}
+h2{
+    color: aqua;
+    font-style: italic;
+}
+h3{
+    color: forestgreen;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer{
+    color: brown;
+    font-family:'Courier New', Courier, monospace;
+}
+.Ol{
+    color: coral;
+}
